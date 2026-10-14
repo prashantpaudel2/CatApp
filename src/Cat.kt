@@ -1,4 +1,4 @@
-class Cat (val name: String, var age: Int, var weight: Int, val eat: String) {
+class Cat (val name: String, var age: Int, var weight: Int) {
 
     fun walk() {
         weight--
